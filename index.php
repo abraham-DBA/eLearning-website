@@ -10,9 +10,9 @@
 </head>
 
 <body>
-    <!-- navbar code section -->
+    navbar code section
     <section class="navbar">
-        <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
+        <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-sm">
             <div class="container">
                 <a href="#" class="navbar-brand fw-bold">SMARTLEARNHUB</a>
                 <button type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" class="navbar-toggler">
@@ -30,7 +30,10 @@
                             <a href="#" class="nav-link me-4">Contact Us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="registration-form.html" class="btn btn-primary">Register</a>
+                            <a href="login.php" class="btn btn-primary me-3">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="registration-form.php" class="btn btn-primary">Register</a>
                         </li>
 
                     </ul>
@@ -153,9 +156,9 @@
                     <div class="card shadow-lg h-100 hover-effect border-0"
                         onmouseover="this.style.transform='translateX(-5px)'"
                         onmouseout="this.style.transform='translateX(0)'">
-                        <img src="./images/ai-generated-8237711_640.jpg" class="card-img-top w-100" alt="Course Image">
+                        <img src="./images/100-days-of-code.jpeg" class="card-img-top w-100" alt="Course Image">
                         <div class="card-body">
-                            <h5 class="card-title">Data Structures and Algorithms</h5>
+                            <h5 class="card-title">100 Days of Code: The Complete Python Pro Bootcamp</h5>
                             <div class="d-flex">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
@@ -167,7 +170,7 @@
                                 <img src="./icons/people.svg" width="20" height="20" alt="people">
                                 <p class="ms-2 mb-0">4,912</p>
                                 <img src="./icons/journal-text.svg" width="20" height="20" alt="notes" class="ms-3">
-                                <p class="ms-2 mb-0">22 lessons</p>
+                                <p class="ms-2 mb-0">48 lessons</p>
                             </div>
                             <hr>
                             <a href="#" class="btn btn-primary w-100">UGX 150,000</a>
@@ -181,9 +184,9 @@
                     <div class="card shadow-lg h-100 hover-effect border-0"
                         onmouseover="this.style.transform='translateX(-5px)'"
                         onmouseout="this.style.transform='translateX(0)'">
-                        <img src="./images/ai-generated-8237711_640.jpg" class="card-img-top w-100" alt="Course Image">
+                        <img src="./images/comptia.jpeg" class="card-img-top w-100" alt="Course Image">
                         <div class="card-body">
-                            <h5 class="card-title">Data Structures and Algorithms</h5>
+                            <h5 class="card-title">CompTIA Security+ (SY0-701) Complete Course & Exam</h5>
                             <div class="d-flex">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
@@ -193,9 +196,9 @@
                             </div>
                             <div class="d-flex mt-3">
                                 <img src="./icons/people.svg" width="20" height="20" alt="people">
-                                <p class="ms-2 mb-0">4,912</p>
+                                <p class="ms-2 mb-0">5,112</p>
                                 <img src="./icons/journal-text.svg" width="20" height="20" alt="notes" class="ms-3">
-                                <p class="ms-2 mb-0">22 lessons</p>
+                                <p class="ms-2 mb-0">51 lessons</p>
                             </div>
                             <hr>
                             <a href="#" class="btn btn-primary w-100">UGX 150,000</a>
@@ -207,9 +210,9 @@
                     <div class="card shadow-sm h-100 hover-effect border-0"
                         onmouseover="this.style.transform='translateX(-5px)'"
                         onmouseout="this.style.transform='translateX(0)'">
-                        <img src="./images/ai-generated-8237711_640.jpg" class="card-img-top w-100" alt="Course Image">
+                        <img src="./images/data-structures.jpeg" class="card-img-top w-100" alt="Course Image">
                         <div class="card-body">
-                            <h5 class="card-title">Data Structures and Algorithms</h5>
+                            <h5 class="card-title">Data Structures and Algorithms: In-Depth DSA using Python</h5>
                             <div class="d-flex">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
@@ -233,9 +236,9 @@
                     <div class="card shadow-lg h-100 hover-effect border-0"
                         onmouseover="this.style.transform='translateX(-5px)'"
                         onmouseout="this.style.transform='translateX(0)'">
-                        <img src="./images/ai-generated-8237711_640.jpg" class="card-img-top w-100" alt="Course Image">
+                        <img src="./images/ai-course.jpeg" class="card-img-top w-100" alt="Course Image">
                         <div class="card-body">
-                            <h5 class="card-title">Data Structures and Algorithms</h5>
+                            <h5 class="card-title">Artificial Intelligence A-Z 2025: Agentic AI, Gen AI, and RL</h5>
                             <div class="d-flex">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
                                 <img src="./icons/star-fill.svg" class="me-1" width="20" height="20" alt="Star">
@@ -245,9 +248,9 @@
                             </div>
                             <div class="d-flex mt-3">
                                 <img src="./icons/people.svg" width="20" height="20" alt="people">
-                                <p class="ms-2 mb-0">4,912</p>
+                                <p class="ms-2 mb-0">4,012</p>
                                 <img src="./icons/journal-text.svg" width="20" height="20" alt="notes" class="ms-3">
-                                <p class="ms-2 mb-0">22 lessons</p>
+                                <p class="ms-2 mb-0">31 lessons</p>
                             </div>
                             <hr>
                             <a href="#" class="btn btn-primary w-100">UGX 150,000</a>
@@ -560,7 +563,7 @@
             <!-- Copyright & Social Links -->
             <div
                 class="d-flex flex-column flex-sm-row justify-content-between align-items-center py-4 mt-4 border-top text-center text-sm-start">
-                <p class="mb-0 text-secondary">© 2024 SMARTLEARNHUB. All rights reserved.</p>
+                <p class="mb-0 text-secondary">© 2025 SMARTLEARNHUB. All rights reserved.</p>
                 <ul class="list-unstyled d-flex gap-3 mt-3 mt-sm-0">
                     <li><a href="#" class="text-dark"><img src="./icons/twitter-x (1).svg" alt=""></a></li>
                     <li><a href="#" class="text-dark"><img src="icons/instagram.svg" alt=""></a></li>
